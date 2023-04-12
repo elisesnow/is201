@@ -1,0 +1,37 @@
+body { /* This is my formatting for my main body of my resume page */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: blanchedalmond;
+    color: black;
+    
+}
+li { /* This is so that my main li words are italicized*/
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a { /* link color */
+    color: maroon;
+}
+.education { /* these are so my main categories are bold */
+    font-weight: bold;
+}
+.experience {
+    font-weight: bold;
+}
+.skills {
+    font-weight: bold;
+}
+.justify{ text-align: justify;}
+
+.homebg {/*
+    background-image: url("");
+} */
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    padding: 5px;
+}

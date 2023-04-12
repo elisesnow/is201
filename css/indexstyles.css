@@ -1,0 +1,7 @@
+body { /* background color change */
+    background-color: rgb(252, 245, 246);
+}
+.headerbg { /* header background picture and different font */
+    background-image: url("../assets/img/backgroundimageindexheader.jpg");
+    font-family: 'Courier New', Courier, monospace;
+}
